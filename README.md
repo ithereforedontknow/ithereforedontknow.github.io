@@ -1,2 +1,2 @@
 # ithereforedontknow.github.io
-# just project for school
+# Just project for school
